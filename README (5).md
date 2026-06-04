@@ -20,7 +20,7 @@
 
 ## 📈 HR Diversity Dashboard
 
-![HR Diversity Dashboard](HR Diversity Dashborad.png)
+![HR Diversity Dashboard](HR%20Diversity%20Dashboard.png)
 
 ---
 
@@ -60,9 +60,6 @@
 ## ⭐ Support
 
 If you find this project useful, consider giving it a ⭐ on GitHub!
-
-
-### This project uses data analytics to understand gender diversity and inclusion in the company. The Power BI dashboard and KPIs empower HR and management to track metrics, address issues, and make informed decisions to enhance workplace diversity. The ultimate goal is to create a fair and inclusive work environment for all employees.
 
 ## Project Link :
 HR Diversity Inclusion Dashboard.pbix
