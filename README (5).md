@@ -20,7 +20,7 @@
 
 ## 📈 HR Diversity Dashboard
 
-![HR Diversity Dashboard](HR%20Diversity%20Dashboard.png)
+![HR Diversity Dashboard](dashboard.png)
 
 ---
 
