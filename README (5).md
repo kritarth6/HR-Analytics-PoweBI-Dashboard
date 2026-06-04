@@ -20,7 +20,7 @@
 
 ## 📈 HR Diversity Dashboard
 
-![HR Diversity Dashboard](dashboard.png)
+![HR Diversity Dashboard](https://github.com/kritarth6/HR-Analytics-PoweBI-Dashboard/blob/29394e73966b69a1fbcbd66fc04d7f8168513e73/dashborad.png)
 
 ---
 
