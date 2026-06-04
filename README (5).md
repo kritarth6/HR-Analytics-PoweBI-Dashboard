@@ -1,33 +1,66 @@
-# HR Analytics KPIs Dashboard using Power-BI
-## Project: HR Gender Diversity and Inclusion Analytics With Power BI
+# 📊 HR Analytics KPIs Dashboard using Power BI
 
-## 🔖Key Features:
-1. View and analyze gender diversity and inclusion data easily.
-2. Track age, regional, job diversity, turnover rate, promotions, and more.
-3. Gain insights into gender diversity across different company dimensions
+## 📌 Project: HR Gender Diversity and Inclusion Analytics
 
-## KPI's Metrics📊
-![KPIs 1](https://github.com/DataVizExpert-Sham/HR-Gender-Diversity-KPIs-in-Power-BI/assets/151017676/54257bbc-d140-4ffa-9e14-73fe988a30a2)
+---
 
-## HR Diversity Dashboard📈
-![HR Diversity Dashborad](https://github.com/DataVizExpert-Sham/HR-Gender-Diversity-KPIs-in-Power-BI/assets/151017676/a8a45572-c11c-4e86-a327-8aa63d00ddca)
+## 🔖 Key Features
 
-## KPI's Findings📊
-![KPIs 2](https://github.com/DataVizExpert-Sham/HR-Gender-Diversity-KPIs-in-Power-BI/assets/151017676/bcc0ec3c-7ba6-437b-ab88-378620747114)
+* Analyze gender diversity and inclusion data in an interactive way
+* Track key HR metrics like age distribution, region, job roles, promotions, and turnover rate
+* Gain insights into workforce diversity across different dimensions
 
+---
 
-## 🏗️Tools Used: 
-- Utilized Microsoft Power BI for data modeling and visualization.
-- Incorporated Microsoft Excel for data analysis.
+## 📊 KPI Metrics
 
-## Project Benefits:
-📌 Enhance transparency on gender diversity
+![KPIs 1](KPIs%201.png)
 
-📌 Identify and address diversity gaps
+---
 
-📌 Enables data-driven decision-making
+## 📈 HR Diversity Dashboard
 
-📌 Tracks key metrics over time
+![HR Diversity Dashboard](HR%20Diversity%20Dashboard.png)
+
+---
+
+## 📊 KPI Findings
+
+![KPIs 2](KPIs%202.png)
+
+---
+
+## 🏗️ Tools Used
+
+* Microsoft Power BI (Data Visualization & Dashboarding)
+* Microsoft Excel (Data Cleaning & Preparation)
+
+---
+
+## 🚀 Project Benefits
+
+📌 Improves transparency in gender diversity
+
+📌 Helps identify and address diversity gaps
+
+📌 Enables data-driven HR decision-making
+
+📌 Tracks important HR metrics over time
+
+---
+
+## 📂 How to Use
+
+1. Clone the repository
+2. Open the `.pbix` file in Power BI Desktop
+3. Explore dashboards and insights
+
+---
+
+## ⭐ Support
+
+If you find this project useful, consider giving it a ⭐ on GitHub!
+
 
 ### This project uses data analytics to understand gender diversity and inclusion in the company. The Power BI dashboard and KPIs empower HR and management to track metrics, address issues, and make informed decisions to enhance workplace diversity. The ultimate goal is to create a fair and inclusive work environment for all employees.
 
